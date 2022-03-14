@@ -1,6 +1,6 @@
-# SemiVanilla Minecraft Server
+# SemiVanilla Team
 
-Welcome to the official Github org for SemiVanilla MC. SemiVanilla is a hard difficulty survival server with RPG elements and a competitive multiplayer experience. This repository is contained within the official Github org for SVMC.
+Welcome to the official Github org for the SemiVanilla Team. We are a team of Minecraft players with almost 20 years combined experience running Minecraft servers. We specialize in semi-vanilla and vanilla+ servers that provide a unique survival experience that players new and old can all enjoy. We set trends, not follow them.
 
 Most content in this org is private and only visible by team members.
 
