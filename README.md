@@ -12,14 +12,15 @@ Discord: [https://semivanilla.com/discord](https://semivanilla.com/discord)
 
 ## Our Servers
 
-**Khavalon**
+**SemiVanilla SMP**
 
-Khavalon is a hard difficulty, pvp-enabled, survival RPG server. It is a seasonal server, with annual resets. This is semi-vanilla survival amplified in every way, designed for those who want a challenge and want to get involved in a fast-paced server that requires grinding to get to the top.
+A survival server with a relaxing vibe, friendly community, and just one twist - hard mode! Enjoy a safe and friendly survival server just like many others, but with a slightly more difficult game mode to make things more interesting.
 
-Website: [https://khavalon.com](https://khavalon.com)
 
-**Asthonia**
+Website: [https://semivanilla.com/](https://semivanilla.com/)
 
-Asthonia is a PVE survival RPG server focused on having a friendly, inviting community. We're one of those servers you come to call home. This is a casual server designed for those who want to join an active and friendly community and have a place to relax and chat, even if not actively playing.
+**Hardline SMP**
 
-Website: [https://asthonia.com](https://asthonia.com)
+NOT YET RELEASED - Hard mode, PVP survival with no homes, no protection, and drop crates creating a royale-style survival experience.
+
+Website: [https://hardlinesmp.com/](https://hardlinesmp.com/)
