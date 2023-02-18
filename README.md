@@ -14,7 +14,7 @@ Discord: [https://semivanilla.com/discord](https://semivanilla.com/discord)
 
 **SemiVanilla SMP**
 
-A survival server with a relaxing vibe, friendly community, and just one twist - hard mode! Enjoy a safe and friendly survival server just like many others, but with a slightly more difficult game mode to make things more interesting.
+A survival server with a relaxing vibe, friendly community, and just one twist - hard difficulty! Enjoy a safe and friendly survival server just like many others, but with a slightly more difficult game mode to make things more interesting.
 
 
 Website: [https://semivanilla.com/](https://semivanilla.com/)
