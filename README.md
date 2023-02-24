@@ -12,12 +12,12 @@ Discord: [https://semivanilla.com/discord](https://semivanilla.com/discord)
 
 ## Our Servers
 
-**SemiVanilla SMP**
+**New Lands Survival**
 
 A survival server with a relaxing vibe, friendly community, and just one twist - hard difficulty! Enjoy a safe and friendly survival server just like many others, but with a slightly more difficult game mode to make things more interesting.
 
 
-Website: [https://semivanilla.com/](https://semivanilla.com/)
+Website: [https://newlandsmc.com/](https://newlandsmc.com/)
 
 **Hardline SMP**
 
