@@ -15,6 +15,7 @@ Website: [https://superminecraftservers.com](https://superminecraftservers.com)
 A survival server with a relaxing vibe, friendly community, and just one twist - hard difficulty! Enjoy a safe and friendly survival server just like many others, but with a slightly more difficult game mode to make things more interesting.
 
 Website: [https://newlandsmc.com/](https://newlandsmc.com/)
+
 Discord: [https://discord.gg/CxQP7SD9Ah](https://discord.gg/CxQP7SD9Ah)
 
 **SemiVanilla**
@@ -22,6 +23,7 @@ Discord: [https://discord.gg/CxQP7SD9Ah](https://discord.gg/CxQP7SD9Ah)
 A new Minecraft server with bare minimum plugins and modifications to the vanilla experience The goal is to provide the best "semivanilla" experience out there.
 
 Website: [https://semivanilla.com/](https://semivanilla.com/)
+
 Discord: [https://discord.gg/zVYbPcVzny](https://discord.gg/zVYbPcVzny)
 
 **Hardline SMP**
@@ -29,4 +31,5 @@ Discord: [https://discord.gg/zVYbPcVzny](https://discord.gg/zVYbPcVzny)
 NOT YET RELEASED - Hard mode, PVP survival with no homes, no protection, and drop crates creating a royale-style survival experience.
 
 Website: [https://hardlinesmp.com/](https://hardlinesmp.com/)
+
 Discord: [https://discord.gg/qRKs348uKJ](https://discord.gg/qRKs348uKJ)
