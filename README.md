@@ -1,12 +1,10 @@
-# Super Minecraft Servers
+# NewLands MC
 
-Welcome to the official Github org for Super Minecraft Servers. We are a team of Minecraft players with over 20 years combined experience running Minecraft servers. We specialize in semi-vanilla and vanilla+ servers that provide a unique survival experience that players new and old can all enjoy. We set trends, not follow them.
+Welcome to the official Github org for the NewLands MC Minecraft server. We are a team of Minecraft players with over 20 years combined experience running Minecraft servers. We specialize in semi-vanilla and vanilla+ servers that provide a unique survival experience that players new and old can all enjoy.
 
 Most content in this org is private and only visible by team members.
 
 Looking to join the team? - _we are currently not looking for additional team members_
-
-Website: [https://superminecraftservers.com](https://superminecraftservers.com)
 
 ## Our Servers
 
@@ -25,13 +23,3 @@ A new Minecraft server with bare minimum plugins and modifications to the vanill
 Website: [https://semivanilla.com/](https://semivanilla.com/)
 
 Discord: [https://discord.gg/zVYbPcVzny](https://discord.gg/zVYbPcVzny)
-
-### Hardline SMP
-
-**NOT YET RELEASED**
-
-Hard mode, PVP survival with no homes, no protection, and drop crates creating a royale-style survival experience.
-
-Website: [https://hardlinesmp.com/](https://hardlinesmp.com/)
-
-Discord: [https://discord.gg/qRKs348uKJ](https://discord.gg/qRKs348uKJ)
