@@ -1,5 +1,3 @@
-# NewLands MC
-
 Welcome to the official Github org for the NewLands MC Minecraft server. We were a team of Minecraft players with over 20 years combined experience running Minecraft servers. We specialized in semi-vanilla and vanilla+ servers that provide a unique survival experience that players new and old can all enjoy.
 
 ~~Most content in this org is private and only visible by team members.~~
